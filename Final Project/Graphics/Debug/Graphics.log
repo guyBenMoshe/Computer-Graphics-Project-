@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\C.S FILES\Year B semester B\graphic\Final Project\Graphics\main.cpp(168,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\C.S FILES\Year B semester B\graphic\Final Project\Graphics\main.cpp(360,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\C.S FILES\Year B semester B\graphic\Final Project\Graphics\main.cpp(454,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\C.S FILES\Year B semester B\graphic\Final Project\Graphics\main.cpp(547,23): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\C.S FILES\Year B semester B\graphic\Final Project\Graphics\main.cpp(547,19): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\C.S FILES\Year B semester B\graphic\Final Project\Graphics\main.cpp(550,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\C.S FILES\Year B semester B\graphic\Final Project\Graphics\main.cpp(785,6): warning C4101: 'j': unreferenced local variable
+C:\C.S FILES\Year B semester B\graphic\Final Project\Graphics\main.cpp(1172,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\C.S FILES\Year B semester B\graphic\Final Project\Graphics\main.cpp(1172,45): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\C.S FILES\Year B semester B\graphic\Final Project\Graphics\main.cpp(1214,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Graphics.vcxproj -> C:\C.S FILES\Year B semester B\graphic\Final Project\Debug\Graphics.exe
