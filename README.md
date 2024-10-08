@@ -1,0 +1,1 @@
+o	Computer Graphics Project  (C++) : Developed a terrain generation system with a menu offering three options: initiate rainfall to create rivers and streams, halt rainfall affecting rivers and streams, and construct a city. Implemented city construction using an iterative placement algorithm on suitable land near rivers and the sea.
